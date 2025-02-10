@@ -27,8 +27,28 @@ let number=33
 
 let stringNumber=String(number)
 
-console.log(stringNumber);//-------->"33"
-console.log(typeof stringNumber);//---->string
+// console.log(stringNumber);//-------->"33"
+// console.log(typeof stringNumber);//---->string
+
+
+//****************************************************operationns*************************************************** */
+
+// console.log(2+2);------->4
+// console.log(2-2);------->0
+// console.log(2*2);------->4
+// console.log(2**2);------->4
+// console.log(2/2);------->1
+// console.log(2%2);------->0
+
+let str1="hello"
+let str2=" abhi"
+// console.log(str1+str2);---------->hello abhi
+
+// console.log("1"+2);------------>12
+// console.log(1+"2");------------>12
+// console.log("1"+2+2);------------>122       {treated as integer if start with integer else as string}
+// console.log(1+2+"2");------------>32
+
 
 
 
