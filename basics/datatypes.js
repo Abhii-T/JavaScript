@@ -13,7 +13,7 @@ let isLoggedIn=false;
 //number--> 2^53
 //bigInt
 //string -->" "
-//boolean-->tye/false
+//boolean-->true/false
 //null -->it is a standalone value
 //undefined--> no value assigned yet
 //symbol--> to find uniqness
